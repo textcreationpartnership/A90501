@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The white minister's declaration, or, The meaning of the white scarf and girdle explained</title>
+            <author>Perkins, Joseph, b. 1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90501</idno>
+            <idno type="STC">Wing P1558A</idno>
+            <idno type="STC">ESTC R42612</idno>
+            <idno type="EEBO-CITATION">36282453</idno>
+            <idno type="OCLC">ocm 36282453</idno>
+            <idno type="VID">150163</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90501)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150163)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2234:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The white minister's declaration, or, The meaning of the white scarf and girdle explained</title>
+                  <author>Perkins, Joseph, b. 1658.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the authour,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Lambeth Palace Library (London, England)</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb n="1" facs="tcp:150163:1"/>
+            <!-- PDF PAGE 49 -->
+            <head>THE White Miniſter's DECLARATION: Or, the Meaning of the White SCARF, AND Girdle, Explain'd.</head>
+            <p>WEREAS many thouſand of people in <hi>London, Oxford, Glouceſter, Briſtol, Bath,</hi> &amp;c. do wonder what is the meaning that I wear a White <hi>Scarf</hi> and <hi>Saſh,</hi> when as all other <hi>Divines</hi> wear Black. This is the true reaſon to diſtinguiſh me from all <hi>Hirlings.</hi> For whearas moſt other Church Men Preach, Prav, <hi>&amp;c.</hi> for <hi>Hire</hi> or <hi>Reward,</hi> I have Bound my ſelf by a Religi<g ref="char:EOLhyphen"/>ous Vow to do theſe Offices of a <hi>Divine Gratis,</hi> or for <hi>Nothing,</hi> as Chriſt Commanded the Apoſtles ſaying <hi>Matt,</hi> 10. <hi>v.</hi> 8. <hi>Freely ye have Received, Freely Give.</hi>
+            </p>
+            <p>All Orders and Degrees of Men are Diſhinguiſhed from each other by ſome Badg of their Profeſſion. Judges and Magiſtrates have their <hi>Furres</hi> and <hi>Hoods, Caps</hi> and <hi>Gowns</hi> to Diinguiſh them by. Now the White <hi>Robe</hi> is the proper Badge of my Profeſſion, which is to
+<pb n="2" facs="tcp:150163:2"/>
+               <!-- PDF PAGE 50 -->do the Work of GOD <hi>Freely,</hi> and therefore <hi>Sincerely,</hi> And therefore <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ought to Wear the Colour of <hi>Sincerity,</hi> which is White. Black is an Emblem of <hi>Sorrow</hi> and <hi>Heaveneſs;</hi> White of <hi>Joy</hi> and <hi>Gladneſs.</hi> Black ſignifies Death: White Signifies <hi>Life.</hi> Let theſe that are <hi>Dead</hi> in Sin and Serve not the Lord Jeſus Chriſt, but their own Belleyes, and Preach not for the <hi>Honour</hi> of GOD, but for <hi>Filtlhy Lu<g ref="char:EOLhyphen"/>cre</hi> Wear the Black Robe as fitteſt for them: Let all thoſe that are Alive from the Dead, and Preach only for the Honour of GOD and the <hi>Salvation</hi> of <hi>Souls,</hi> Wear the Whire, as a Badge of their <hi>Sincerity.</hi> Let all <hi>Hirelings</hi> that Adulterate the Word of GOD, Wear black to Diſtinguiſh them from the true Paſtors: Let all true Paſtors who Preach the Sincere <hi>Milk</hi> of the <hi>Word,</hi> Wear the Colour of <hi>Milk,</hi> as a Badge of their <hi>Sincerity,</hi> and to Diſtinguiſh them from all <hi>Hi<g ref="char:EOLhyphen"/>relings.</hi> Let all Righteous Perſons Wear the Robe of <hi>Ritousneſs,</hi> and the Girdle of <hi>Sincerity:</hi> Let all <hi>Hiporites</hi> and <hi>Hirelings,</hi> Weare the Colour of Hell and Death even the Robe of <hi>Iniquity</hi> and the Girdle of <hi>Hipocriſie.</hi>
+            </p>
+            <p>I hope there are many <hi>Clergy-men</hi> that Wear the black Scarf and Girdle, who for their Integrity and Sincerity deſerve the White. I my ſelfe Wore the black Robe about twenty Years, and three Years ſince I made this Vow, and had alwayes Worne it, had I not been called a <hi>Hireling,</hi> and a Journey-Man Curate. And then I thought 'twas high time to ſtand up in my own juſt Defence, and by Pub<g ref="char:EOLhyphen"/>ſick Manifeſto, as it were, to Diſclaime, what I was wrongfuly Charged withal. This juſtifiing our ſelves, when we are Falſely Accus<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d is alwayes Neceſſary, faith Biſhop <hi>Sanderſon.</hi> And certain<g ref="char:EOLhyphen"/>ly it highly concernes a Divine to ſtand Clear in the Eye of the World in that behalfe: For who will give any Credit to the Words of a <hi>Hireling?</hi> Therefore it is that St. <hi>Paul</hi> does ſo often clear himſelf from the Suſpition of Coveteouſneſs: I <hi>have Coveted no Mans Silver, or Gold, or Apparel. Neither at any time uſed we a Cloak of Govetouſneſs — I ſeek not yoars but you. Not ſeeking my own Profit, but the Profit of many that they may be ſaved</hi>—</p>
+            <p>I know the <hi>Hinelings</hi> are furiouſly Enraged againſt me for Wear<g ref="char:EOLhyphen"/>ing the White Robe, and ſome have preſwaded me to leave it off: and Some have Threatned to Tear it off. They are <hi>Affraid that my White
+<pb n="3" facs="tcp:150163:2"/>
+                  <!-- PDF PAGE 50 -->will expoſe their Black,</hi> and my Angelical <hi>Sincerity render and expoſe their Diabolical Hipocriſie.</hi> They would have me to be like them: Like to like, and ſome have asked me if I was not Aſhamed to Wear this White Scarf: To whome I readily gave this Anſwer <hi>whereas I was Aſhamed to Wear a Black one, becauſe that did not diſtinguiſh me from</hi> Hirelings: <hi>And that I ſcorned ſuch Baſeneſs as to Preach and Pray for</hi> Lucere <hi>or</hi> Reward.</p>
+            <p>I deſire the World to take notice that I have Preached 7 or 8 Hundred times for theſe Ungreatful <hi>Hirelings,</hi> who never gave me any reward, — And now when I profeſs I profeſs I am ready to Preach freely for them as long as I live, they will not admit me into their Pulpits: And wheareas I have nothing to Support me and my Children by, but my Latine Muſes, Theſe Maliclous <hi>Hirelings,</hi> have done their utmoſt endeavours to hinder me from getting a Penny by my Books of Poetry, as they did at the <hi>Bath,</hi> and in many other Places. If any of theſe <hi>Hirolings,</hi> that Mudd the pure Fountains of <hi>Helicon,</hi> that is diſparage my Latine Poetry, can make ſo good Ver<g ref="char:EOLhyphen"/>ſes I will pardon their Slandring. But if they cannot make ſo good-let them take care that they diſhonour not the bright Image of God, by Flinging Dirt in the Face of a Divine poet. And let all thoſe that deny me the uſe of a pulpit, for fear I ſhould Preach more truth then they are willing to hear, when they receive the Sa<g ref="char:EOLhyphen"/>crament, tremble at theſe Words.</p>
+            <p>Therefore if any of you be a <hi>hinderer</hi> of Gods Words, or be in En<g ref="char:EOLhyphen"/>vy or Malice, <hi>&amp;c.</hi> Repent, or elſe come not to this holy Sacrament, But becauſe the Church of <hi>England</hi> will allow me none Houſe to live in, nor Church to preach in, nor hear my words, nor allow me Food, I do hereby Wipe off the Duſt of my Feete as a Witneſs againſt her, and take my leave of her.</p>
+            <epigraph>
+               <q>
+                  <hi>Loripedem rectus derideat Aethiopem Albus.</hi>
+               </q>
+               <bibl>
+                  <hi>Juuenal</hi>
+               </bibl>
+            </epigraph>
+         </div>
+         <div type="invective">
+            <pb n="4" facs="tcp:150163:3"/>
+            <!-- PDF PAGE 51 -->
+            <head>To the <hi>HIRELINGS.</hi>
+            </head>
+            <l>BY bribes of Silver Prieſt is hir'd to Preach:</l>
+            <l>Take away thoſe, and hee'l no longer Teach.</l>
+            <l>Alas! 'tis Money makes him Eloquent.</l>
+            <l>His Voyce is gone when Golden hopes are ſpent,</l>
+            <l>Actors and Fidlers, Songſters, Pleaders do</l>
+            <l>Their Voyces ſell, and ſo do Preachers too.</l>
+            <l>One Prophet vile and ſcorn'd has reguard.</l>
+            <l>To th' <hi>Office</hi> only; not to the <hi>Reward.</hi>
+            </l>
+            <l>The Sun's bright Flames to Mortalls <hi>freely</hi> Shine:</l>
+            <l>And whilſt I preach for <hi>Nothing</hi> ſo do mine.</l>
+            <p>
+               <hi>Note,</hi> That this invective againſt Hirelings, is not deſign'd only a<g ref="char:EOLhyphen"/>gainſt thoſe Hirelings, that are in the Church, but equally againſt all of that Sect or Proffeſſion ſoever that Take upon them the Office of a Teacher for the ſake of gaine. Theſe Teachers that are thus mercenary and tinſincere, God Almighty turn their Hearts. Which is the earneſt Prayer of</p>
+            <closer>
+               <signed>Jos. Perkins.</signed>
+
+               <signed>Jos. Perkins.</signed>
+            </closer>
+            <postscript>
+               <p>If any <hi>Hireling</hi> be offended at this Paper, Let me bear all the Blame.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for the AUTHOUR, 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
